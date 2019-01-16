@@ -1,0 +1,15 @@
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\bin\Debug\Aspose.Words.Examples.CSharp.exe
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\bin\Debug\Aspose.Words.Examples.CSharp.pdb
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\bin\Debug\Aspose.BarCode.dll
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\bin\Debug\Aspose.Words.dll
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\bin\Debug\Aspose.Words.xml
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\DocumentExplorerExample.ViewerForm.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\Aspose.Words.Examples.CSharp.Properties.Resources.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\DocumentExplorerExample.AboutForm.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\DocumentExplorerExample.ExceptionDialog.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\DocumentExplorerExample.GoToPageForm.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\DocumentExplorerExample.MainForm.resources
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\Aspose.Words.Examples.CSharp.exe
+D:\Downloads\Aspose.Words-for-.NET-master (1)\Aspose.Words-for-.NET-master\Examples\CSharp\obj\Debug\Aspose.Words.Examples.CSharp.pdb
