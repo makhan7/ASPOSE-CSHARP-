@@ -226,7 +226,7 @@ namespace Aspose.Words.Examples.CSharp
 
             //// Charts
             //// =====================================================
-            // CreateColumnChart.Run();
+            //CreateColumnChart.Run();
             // InsertScatterChart.Run();
             // InsertAreaChart.Run();
             // InsertBubbleChart.Run();
@@ -482,6 +482,7 @@ namespace Aspose.Words.Examples.CSharp
             }
             return Path.Combine(startDirectory, "Data\\");
         }
+        //Get output file path as string.
         public static string GetOutputFilePath(String inputFilePath)
         {
             string extension = Path.GetExtension(inputFilePath);
